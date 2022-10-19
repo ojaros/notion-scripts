@@ -51,7 +51,7 @@ const todaysDate = mm + '/' + dd + '/' + yyyy;
 //       accept: 'application/json',
 //       'Notion-Version': '2022-06-28',
 //       'content-type': 'application/json',
-//       'Authorization': 'Bearer ' + 'secret_6hTU1lPLpW2PyBkFCWz09REFWxLxduJHibc2pcXYBZH'
+//       'Authorization': 'Bearer ' + token goes here 
 //     },
 //     data: data
 //   };
